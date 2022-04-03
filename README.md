@@ -6,10 +6,13 @@
 - 💼 Profession -> Programmer 💻
 - 🎷 Hobbies -> ⚽.🏀.🎲.🎮
 - 🌄 The best season -> Summer 🍃
-- 
+- 💬 Fan Fact -> 
 #  
 - Marking:
   - 📚 
   - 💻
   - 
-
+#
+- Communication:
+  - 📧 alexander.mulyar@gmail.com
+  - 📨 GallianZeon@gmail.com
