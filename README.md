@@ -1,5 +1,5 @@
 # Hi there 👋
-> I welcome you to visit me
+> I welcome you, let's get acquainted 🔎
  
 - 📜 Initials -> [ A.M ] Ａｌｅｘａｎｄｅｒ  Ｍｕｌｙａｒ
 - 😎 Nickname -> Ｇａｌｌｉａｎ  Ｚｅｏｎ
