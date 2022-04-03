@@ -14,5 +14,5 @@
   - 
 #
 - Communication:
-  - 📧 alexander.mulyar@gmail.com
+  - 📧 Alexander.Mulyar@gmail.com
   - 📨 GallianZeon@gmail.com
