@@ -9,11 +9,12 @@
 - 💬 Fan Fact -> 
 #  
 - Marking:
-  - 📚 
-  - 💻
-  - 
+  - 📚 (Homework)
+  - 💻 (Work)
+  - 👾 (Fun)
+    - 📗.📙.📕 ()
 #
 - Communication:
   - 📧 Working  💼 - Alexander.Mulyar@gmail.com
-  - 📨 Personal ✨ - GallianZeon@gmail.com
-  - 📱 Personal - +380*********
+  - 📨 Personal ✨ - (For friends only)
+  - 📱 Personal - (+380*********)
