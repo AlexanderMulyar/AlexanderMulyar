@@ -13,4 +13,7 @@
   - 💻
   - 
 #
-
+- Communication:
+  - 📧 Working  💼 - Alexander.Mulyar@gmail.com
+  - 📨 Personal ✨ - GallianZeon@gmail.com
+  - 📱 Personal - +380*********
