@@ -12,7 +12,8 @@
   - 📚 (Homework)
   - 💻 (Work)
   - 👾 (Fun)
-  - Level:   
+  
+  - P - Level:   
     - 📗 (Easy)
     - 📙 (Medium)
     - 📕 (Hard)
