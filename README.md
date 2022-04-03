@@ -4,3 +4,9 @@
 - Nickname -> Ｇａｌｌｉａｎ Ｚｅｏｎ
 - John Adams
 - Thomas Jefferson
+
+
+- Marking:
+  - 📚 
+  - 📚
+  - 📚
