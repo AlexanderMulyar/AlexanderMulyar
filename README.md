@@ -1,3 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-?style=for-the-badge&logo=appveyor 
+- Initials -> Ａｌｅｘａｎｄｅｒ Ｍｕｌｙａｒ
+- Nickname -> Ｇａｌｌｉａｎ Ｚｅｏｎ
+- John Adams
+- Thomas Jefferson
