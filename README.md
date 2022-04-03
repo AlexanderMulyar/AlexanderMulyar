@@ -22,4 +22,5 @@
 - Communication:
   - 📧 Working  💼 - Alexander.Mulyar@gmail.com
   - 📨 Personal ✨ - (For friends only)
+  - 💭 Discord - (#1486)
   - 📱 Personal - (+380*********)
