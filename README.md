@@ -2,7 +2,7 @@
 
 - Initials -> Ａｌｅｘａｎｄｅｒ Ｍｕｌｙａｒ
 - Nickname -> Ｇａｌｌｉａｎ Ｚｅｏｎ
-- Nationality -> 🇺🇦
+- Nationality -> UA :flag_ua: 
 - Profession
 - 
 
