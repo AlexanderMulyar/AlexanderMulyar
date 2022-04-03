@@ -13,10 +13,10 @@
   - 💻 (Work)
   - 👾 (Fun)
   
-  - P - Level:   
-    - 📗 (Easy)
-    - 📙 (Medium)
-    - 📕 (Hard)
+- P - Level:   
+  - 📗 (Easy)
+  - 📙 (Medium)
+  - 📕 (Hard)
 #
 - Communication:
   - 📧 Working  💼 - Alexander.Mulyar@gmail.com
