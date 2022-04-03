@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi to all 👋
 > I welcome you, let's get acquainted 😄🔎
  
 - 📜 Initials -> [ A.M ] Ａｌｅｘａｎｄｅｒ  Ｍｕｌｙａｒ
