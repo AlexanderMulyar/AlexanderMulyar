@@ -1,9 +1,10 @@
-  # Hi there 👋
+                                # Hi there 👋
 
 - 📜 Initials -> Ａｌｅｘａｎｄｅｒ Ｍｕｌｙａｒ
 - 😎 Nickname -> Ｇａｌｌｉａｎ Ｚｅｏｎ
-- 🌍 Nationality -> Ukraine [🅤🅐]
-- Profession
+- 🌍 Nationality -> Ukraine [𝕌𝔸]
+- 🔭 Profession -> Programmer 💻
+- 🌄 The best season -> Summer 🍃
 - 
 
 ____________________________________________
