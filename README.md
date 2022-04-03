@@ -2,11 +2,11 @@
 > I welcome you, let's get acquainted 😄🔎
  
 - 📜 Initials -> [ A.M ] Ａｌｅｘａｎｄｅｒ  Ｍｕｌｙａｒ
-- 😎 Nickname -> Ｇａｌｌｉａｎ  Ｚｅｏｎ
-- 🌍 Nationality -> Ukraine [𝕌𝔸]
-- 💼 Profession -> Programmer 💻
+- 😎 Nickname -> ***Ｇａｌｌｉａｎ  Ｚｅｏｎ***
+- 🌍 Nationality -> ***Ukraine*** [𝕌𝔸]
+- 💼 Profession -> ***Programmer*** 💻
 - 🎷 Hobbies -> ⚽.🏀.🎲.🎮
-- 🌄 The best season -> Summer 🍃
+- 🌄 The best season -> ***Summer*** 🍃
 - 💬 Fan Fact -> ***I really like seafood*** 🍤🍣
 #  
 - Marking:
