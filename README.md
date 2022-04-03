@@ -6,8 +6,7 @@
 - 💼 Profession -> Programmer 💻
 - 🎷 Hobbies -> ⚽.🏀.🎲.🎮
 - 🌄 The best season -> Summer 🍃
-- 💬 Fan Fact ->
-> Text that is a quote
+- 💬 Fan Fact -> I really like seafood 🍤🍣
 #  
 - Marking:
   - 📚 (Homework)
