@@ -12,7 +12,10 @@
   - 📚 (Homework)
   - 💻 (Work)
   - 👾 (Fun)
-    - 📗.📙.📕 ()
+  - Level:   
+    - 📗 (Easy)
+    - 📙 (Medium)
+    - 📕 (Hard)
 #
 - Communication:
   - 📧 Working  💼 - Alexander.Mulyar@gmail.com
