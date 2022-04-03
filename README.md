@@ -1,5 +1,5 @@
 # Hi there 👋
-> I welcome you, let's get acquainted 🔎
+> I welcome you, let's get acquainted 😄🔎
  
 - 📜 Initials -> [ A.M ] Ａｌｅｘａｎｄｅｒ  Ｍｕｌｙａｒ
 - 😎 Nickname -> Ｇａｌｌｉａｎ  Ｚｅｏｎ
@@ -7,7 +7,7 @@
 - 💼 Profession -> Programmer 💻
 - 🎷 Hobbies -> ⚽.🏀.🎲.🎮
 - 🌄 The best season -> Summer 🍃
-- 💬 Fan Fact -> I really like seafood 🍤🍣
+- 💬 Fan Fact -> ***I really like seafood*** 🍤🍣
 #  
 - Marking:
   - 📚 (Homework)
