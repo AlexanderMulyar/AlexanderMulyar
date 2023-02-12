@@ -5,7 +5,7 @@
 - 😎 Nickname -> Ｇａｌｌｉａｎ  Ｚｅｏｎ
 - 🌍 Nationality -> Ukraine [𝕌𝔸]
 - 💼 Profession -> Programmer 💻
-- 🎷 Hobbies -> ⚽.🏀.🎲.🎮
+- 🎷 Hobbies -> ⚽.🏀.🎲
 - 🌄 The best season -> Summer 🍃
 - 💬 Fan Fact -> ***" I really like seafood "*** 🍤🍣
 #  
@@ -20,7 +20,7 @@
   - 📕 (Hard)
 #
 - Communication:
-  - 📧 Working  💼 - Alexander.Mulyar@gmail.com
-  - 📨 Personal ✨ - (For friends only)
-  - 💭 Discord - (#1486)
+  - 📧 Working  💼 - ( - )
+  - 📨 Personal ✨ - ( - )
+  - 💭 Discord - ( - )
   - 📱 Personal - (+380*********)
